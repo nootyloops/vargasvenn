@@ -1,0 +1,36 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+.work {
+  display: flex;
+  justify-content: center;
+}
+h4 {
+  display: flex;
+  justify-content: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.extrasauc {
+  display: flex;
+  justify-content: center;
+}
+img {
+  height: 20%;
+  width: 10%;
+  object-fit: cover;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+.home1{
+  display: flex;
+  justify-content: center;
+}
+.uglyandrew{
+  display: flex;
+  justify-content: center;  
+}
