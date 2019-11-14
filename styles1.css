@@ -1,0 +1,124 @@
+@font-face {
+  font-family: RecoletaRegular;
+  src: url(Recoleta-RegularDEMO.otf);
+}
+*{
+   font-family: RecoletaRegular;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+.toleft {
+display: flex;
+justify-content: flex-start;
+}
+.work {
+  display: flex;
+  justify-content: center;
+}
+h4 {
+  display: flex;
+  justify-content: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.extrasauc {
+  display: flex;
+  justify-content: center;
+}
+img {
+  height: 20%;
+  width: 10%;
+  object-fit: cover;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+.home1{
+  display: flex;
+  justify-content: center;
+}
+.uglyandrew{
+  display: flex;
+  justify-content: center;
+  width: 600px;
+  height: 300px;
+  object-fit: cover;
+  
+}
+.lineitup {
+  display: flex;
+  justify-content: center;
+}
+.boxbox {
+  display: flex;
+  justify-content: center;
+}
+.secondbox {
+
+display: flex;
+justify-content: center;
+}
+.france1 {
+
+  width: 30%;
+  padding: 10px;
+}
+.comptitle {
+  display: flex;
+  justify-content: center;
+}
+.peepee {
+  display: flex;
+  justify-content: center;
+}
+.buttons
+{
+text-decoration: none;
+
+}
+.logo {
+  padding-left: 0px;
+}
+.tab {
+  overflow: hidden;
+
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  color: blue;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  color: blue;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.minitab {
+  display: flex;
+}
